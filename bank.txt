@@ -1,0 +1,239 @@
+LineBot is running.
+JunQi : 預約
+JunQi : 預約洗衣
+JunQi : time_2
+JunQi : @time07
+JunQi : @true07
+JunQi : 查詢預約紀錄
+JunQi : @time11
+JunQi : @true11
+JunQi : 查詢目前預約紀錄
+JunQi : 刪除預約
+JunQi : 確定刪除預約
+JunQi : @time10
+JunQi : @true10
+尤昭詠🎷 : beacon 超時
+JunQi : beacon 超時
+陳銘嘉 : beacon 超時
+尤昭詠🎷 : 預約
+尤昭詠🎷 : beacon 超時
+尤昭詠🎷 : 預約洗衣
+尤昭詠🎷 : time_3
+尤昭詠🎷 : @time15
+
+
+LineBot is running.
+尤昭詠🎷 : beacon 超時
+尤昭詠🎷 : @true15
+JunQi : 預約
+JunQi : beacon 超時
+Ming Waiiiii♪ : beacon 超時
+Ming Waiiiii♪ : beacon 超時
+尤昭詠🎷 : @time15
+
+
+LineBot is running.
+尤昭詠🎷 : @true15
+尤昭詠🎷 : @true15
+JunQi : 預約
+JunQi : 預約洗衣
+JunQi : time_1
+JunQi : @time00
+JunQi : @true00
+尤昭詠🎷 : @time16
+尤昭詠🎷 : @time16
+JunQi : 查詢預約紀錄
+尤昭詠🎷 : 預約
+尤昭詠🎷 : 洗衣使用方式
+尤昭詠🎷 : 查詢預約紀錄
+尤昭詠🎷 : 預約
+尤昭詠🎷 : 查詢目前預約紀錄
+尤昭詠🎷 : 查詢預約紀錄
+
+
+LineBot is running.
+尤昭詠🎷 : 預約
+尤昭詠🎷 : 預約洗衣
+尤昭詠🎷 : time_3
+尤昭詠🎷 : @time15
+尤昭詠🎷 : @true15
+尤昭詠🎷 : 預約
+尤昭詠🎷 : 查詢預約紀錄
+尤昭詠🎷 : 查詢目前預約紀錄
+尤昭詠🎷 : 刪除預約
+尤昭詠🎷 : 確定刪除預約
+尤昭詠🎷 : 查詢預約紀錄
+尤昭詠🎷 : 查詢目前預約紀錄
+尤昭詠🎷 : 查詢預約紀錄
+尤昭詠🎷 : 預約
+尤昭詠🎷 : 洗衣使用方式
+施浩宇 : 查詢預約紀錄
+施浩宇 : 查詢目前預約紀錄
+施浩宇 : 預約洗衣
+施浩宇 : time_4
+施浩宇 : @time23
+施浩宇 : @true23
+施浩宇 : 預約
+施浩宇 : 查詢預約紀錄
+施浩宇 : 查詢目前預約紀錄
+施浩宇 : 刪除預約
+施浩宇 : 確定刪除預約
+施浩宇 : 查詢預約紀錄
+尤昭詠🎷 : 預約
+尤昭詠🎷 : 查詢預約紀錄
+尤昭詠🎷 : 查詢預約紀錄
+尤昭詠🎷 : 預約
+
+
+LineBot is running.
+
+
+LineBot is running.
+JunQi : 預約
+JunQi : 預約洗衣
+JunQi : time_1
+JunQi : @time01
+JunQi : @true01
+JunQi : 查詢預約紀錄
+JunQi : 查詢目前預約紀錄
+JunQi : 刪除預約
+JunQi : 確定刪除預約
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+尤昭詠🎷 : 預約
+尤昭詠🎷 : image
+
+
+LineBot is running.
+尤昭詠🎷 : image
+
+
+LineBot is running.
+尤昭詠🎷 : image
+
+
+LineBot is running.
+尤昭詠🎷 : image
+尤昭詠🎷 : image
+
+
+LineBot is running.
+尤昭詠🎷 : image
+尤昭詠🎷 : image
+尤昭詠🎷 : image
+尤昭詠🎷 : image
+尤昭詠🎷 : image
+
+
+LineBot is running.
+尤昭詠🎷 : image
+
+
+LineBot is running.
+尤昭詠🎷 : image
+尤昭詠🎷 : image
+
+
+LineBot is running.
+尤昭詠🎷 : image
+尤昭詠🎷 : image
+undefined : Unknow message : {"replyToken":"ffffffffffffffffffffffffffffffff","type":"message","timestamp":1451617210000,"source":{"type":"user","userId":"Udeadbeefdeadbeefdeadbeefdeadbeef"},"message":{"id":"100002","type":"sticker","packageId":"1","stickerId":"1"}}
+施浩宇 : Unknow message : {"type":"message","replyToken":"9431b004b3b142b1a1a96ef25c1390c7","source":{"userId":"Uf9072dead75554f3a46920cf932996d5","type":"user"},"timestamp":1484838999400,"message":{"type":"sticker","id":"5525972356633","stickerId":"6982260","packageId":"5000"}}
+施浩宇 : Unknow message : {"type":"message","replyToken":"9f452974c38b4838a1b0153a49c705a8","source":{"userId":"Uf9072dead75554f3a46920cf932996d5","type":"user"},"timestamp":1484839046582,"message":{"type":"sticker","id":"5525976094047","stickerId":"6982261","packageId":"5000"}}
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+尤昭詠🎷 : 預約
+尤昭詠🎷 : beacon 報到
+尤昭詠🎷 : beacon 報到
+李忠哲 : beacon 報到
+李忠哲 : beacon 報到
+李忠哲 : beacon 報到
+李忠哲 : beacon 報到
+李忠哲 : beacon 報到
+李忠哲 : beacon 報到
+李忠哲 : beacon 報到
+李忠哲 : beacon 報到
+尤昭詠🎷 : beacon 報到
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
+
+
+LineBot is running.
